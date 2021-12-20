@@ -31,7 +31,7 @@ requirements = [
     "setuptools>=18.0",
     "geopandas>=0.8.0",
     "pygeos",
-    "cykhash==1.0.2",
+    "cykhash<=1.0.2",
     "pyrobuf",
 ]
 
